@@ -43,7 +43,7 @@
 
 ## 🛠 使用ツール
 
-- Cursor
+- VSCode（Visual Studio Code）
 - GitHub
 - Markdown
 - 図表生成ツール
