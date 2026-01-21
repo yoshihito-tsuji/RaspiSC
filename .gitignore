@@ -61,3 +61,4 @@ credentials.json
 htmlcov/
 .pytest_cache/
 .tox/
+archive/
